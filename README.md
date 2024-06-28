@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Mastering DevOps with Hands-On Labs: KodeKloud-Practice! 🌟🚀 
 
 Welcome to the [KodeKloud-Practice](https://github.com/TheToriqul/KodeKloud-Practice) repository! I've been actively using this repository for my own practice sessions. It's a fantastic resource offering a diverse range of hands-on labs covering Kubernetes, Docker, AWS, Terraform, and more. Whether you're gearing up for certifications, honing your skills, or delving into real-world scenarios to deepen your knowledge, this repository provides a robust set of exercises to help you master essential DevOps tools and technologies.
@@ -34,7 +33,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Happy practicing and happy coding! If you have any questions or need assistance, feel free to open an issue or reach out to the community.
-
----
-=======
->>>>>>> docker
