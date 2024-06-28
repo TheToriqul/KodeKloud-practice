@@ -24,7 +24,7 @@ This repository contains a Docker Compose configuration to deploy a PHP applicat
 - Docker installed on the host machine.
 - Docker Compose installed on the host machine.
 
-## Setup
+## Setup 
 
 1. **SSH into App Server 3:**
    ```sh
